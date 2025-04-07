@@ -1,3 +1,4 @@
+--
 import	androidx.appcompat.app.AppCompatActivity;
 import	android.os.Bundle;
 import	android.view.View;
@@ -47,14 +48,14 @@ public class MainActivity extends AppCompatActivity
         });
     }
 }
+--
 
 
 
 
 
 
-
-
+--
 public class Dortgen
 {
 
@@ -69,11 +70,11 @@ public class Dortgen
     }
 }
 
+--
 
 
 
-
-
+--
 <LinearLayout
         android:layout_width="wrap_content"
     android:layout_height="wrap_content"
@@ -117,3 +118,4 @@ public class Dortgen
         android:layout_height="wrap_content"
         android:text="Alan"/>
     </LinearLayout>
+--
